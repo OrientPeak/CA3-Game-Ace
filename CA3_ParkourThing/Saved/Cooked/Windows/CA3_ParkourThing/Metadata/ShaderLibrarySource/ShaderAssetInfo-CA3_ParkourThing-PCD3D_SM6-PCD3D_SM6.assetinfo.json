@@ -64,6 +64,7 @@
 		{
 			"ShaderMapHash": "D1D6B629EA864518B4E381CF33568A7822EC03CA",
 			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
 				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02"
 			]
 		},
@@ -196,6 +197,7 @@
 		{
 			"ShaderMapHash": "B6529F67B2BB4629A411041D8EA7B2CC7E083509",
 			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
 				"/Game/Characters/Mannequins/Materials/M_Mannequin"
 			]
 		},
@@ -286,7 +288,8 @@
 		{
 			"ShaderMapHash": "3F24318B76C42C5E352ECFF81CBE51207B070E20",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough"
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
 		{
@@ -370,7 +373,8 @@
 		{
 			"ShaderMapHash": "61D80EAEDD9F7D001341EBF52621646441028490",
 			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
 			]
 		},
 		{
