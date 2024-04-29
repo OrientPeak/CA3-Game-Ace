@@ -2,9 +2,21 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
+			"ShaderMapHash": "ED09B0015CD9D1BE4D59F69AD4FA354B04EC9E64",
+			"Assets": [
+				"/Game/Blender/Material_002"
+			]
+		},
+		{
 			"ShaderMapHash": "E0E69F064D009750554ACA45C44B99FDAE741301",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E553C409A7CB10944E326DA533C13089D94347FE",
+			"Assets": [
+				"/Game/particles/NS_Confetti"
 			]
 		},
 		{
@@ -183,15 +195,17 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F9F96A62E14957364F76AA7207DDD44881DA008C",
+			"ShaderMapHash": "B3B9C560E8F092ADB2645EAA790209007C5226AD",
 			"Assets": [
-				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
+				"/Game/Blender/Material_004",
+				"/Game/Blender/Material_005",
+				"/Game/Blender/Material_006"
 			]
 		},
 		{
-			"ShaderMapHash": "1BC888670B701846047D9C3B1AE18267C5C5FE87",
+			"ShaderMapHash": "F9F96A62E14957364F76AA7207DDD44881DA008C",
 			"Assets": [
-				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
 			]
 		},
 		{
@@ -205,6 +219,13 @@
 			"ShaderMapHash": "3E221969C24A0FA7066F96B9D7AC4E5A00FFB09B",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0B9F8A6B7DA24A9C2CB1D71A0866593413973D9C",
+			"Assets": [
+				"/Game/Blender/Wall_Outline",
+				"/Game/Blender/Wall_Outline1"
 			]
 		},
 		{
@@ -329,9 +350,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B73FE595941D492BDF0D9E161C7AABE381F55075",
+			"ShaderMapHash": "5B0BF197855B369178D26E567971AE0EB819C9D7",
 			"Assets": [
-				"/Engine/EngineSky/M_SimpleSkyDome"
+				"/Game/Blender/Fabric"
 			]
 		},
 		{
@@ -384,6 +405,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "B58DCEB070E8690B1E5ABEF19139B65B29181044",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "B22094B4AF1D9A60BA70BBDFB5737E4D7DEA0D64",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial",
@@ -406,6 +433,12 @@
 			"ShaderMapHash": "5C9A6EBBD30A791FF237BF1A59B222B32BC398F1",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "6E2521BC1920BC5FEC4C0D69C3EB450122E2A875",
+			"Assets": [
+				"/Game/Blender/Wall_UV_Mat"
 			]
 		},
 		{
@@ -505,6 +538,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F83539ED97FC884B97A2DAC3A68EB7C3E5DBE390",
+			"Assets": [
+				"/Game/Blender/Material"
+			]
+		},
+		{
 			"ShaderMapHash": "8F0B8EF338ACF4ABE7E96AF4ADCAE0AF1616C629",
 			"Assets": [
 				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
@@ -514,6 +553,12 @@
 			"ShaderMapHash": "177CCAF4CC7BC6B03953482DE8AF776E7A792E21",
 			"Assets": [
 				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "A7973EF7478784C0589F5EF70737CC7F548E6D11",
+			"Assets": [
+				"/Game/Blender/Material_001"
 			]
 		},
 		{

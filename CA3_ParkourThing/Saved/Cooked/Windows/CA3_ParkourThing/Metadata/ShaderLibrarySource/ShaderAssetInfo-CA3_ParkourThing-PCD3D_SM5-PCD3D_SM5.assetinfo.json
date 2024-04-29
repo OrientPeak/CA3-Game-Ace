@@ -74,9 +74,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1D414F19465D3B4B62ABAF885FFF6AC83FCAC210",
+			"Assets": [
+				"/Game/Blender/Material_002"
+			]
+		},
+		{
 			"ShaderMapHash": "6B538A19ACBDF85D068C728BE948FD979D2D9379",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5495521C9AA944968311FE0E6B4E20506F17816F",
+			"Assets": [
+				"/Game/Blender/Material_001"
 			]
 		},
 		{
@@ -226,6 +238,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C2B94A5199D916E80AD650CF213082E0D1EDC211",
+			"Assets": [
+				"/Game/Blender/Fabric"
+			]
+		},
+		{
 			"ShaderMapHash": "2E29D455BED267543EE6EF27E108D45DFD9D9242",
 			"Assets": [
 				"/Engine/EngineMaterials/WorldGridMaterial"
@@ -274,6 +292,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DBC30F7A8A9F377687220FB022433F5D58181D27",
+			"Assets": [
+				"/Game/Blender/Wall_UV_Mat"
+			]
+		},
+		{
 			"ShaderMapHash": "AB43FE8332094230A6E5DB18F56568AEA1823A69",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray"
@@ -295,6 +319,12 @@
 			"ShaderMapHash": "99A74088BBE0DA1BA58D1551BE741A9468F16D9D",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "1A35EB89C86B7F18AC719915BDBCC6D4C9A0955D",
+			"Assets": [
+				"/Game/Blender/Material"
 			]
 		},
 		{
@@ -322,6 +352,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "51A361A51E7BC92F16D171F676F9E81B4A1257F7",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "3CAD1AA64F52C0EEAF6D562687188B65E9CBD6FB",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
@@ -337,12 +373,6 @@
 			"ShaderMapHash": "D239C9AB2A404B708C0FA5E2EB2918FBDFC9F736",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
-			]
-		},
-		{
-			"ShaderMapHash": "A3A4A3ADF43A3454C7943935CACC06F4C9EFA2DD",
-			"Assets": [
-				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
 			]
 		},
 		{
@@ -401,6 +431,14 @@
 			]
 		},
 		{
+			"ShaderMapHash": "52F6A8C45AE3E5B5A1BF0527DB36DCC8F3338170",
+			"Assets": [
+				"/Game/Blender/Material_004",
+				"/Game/Blender/Material_005",
+				"/Game/Blender/Material_006"
+			]
+		},
+		{
 			"ShaderMapHash": "A80ACFC50CAE5AF4A5D37A849C3599309562E5A5",
 			"Assets": [
 				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
@@ -416,12 +454,6 @@
 			"ShaderMapHash": "DCA370CD4C917E3DCD5AFC6D997D4D1109594D7D",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
-			]
-		},
-		{
-			"ShaderMapHash": "CDC4A2CD3D0C402A898875D50DBB3EDB5724620B",
-			"Assets": [
-				"/Engine/EngineSky/M_SimpleSkyDome"
 			]
 		},
 		{
@@ -449,6 +481,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8C5A2DDAB285043727D9006393236923FC3168F4",
+			"Assets": [
+				"/Game/particles/NS_Confetti"
+			]
+		},
+		{
 			"ShaderMapHash": "553BA3DC5B4C9D56BBA3D38D1272A1736A25300B",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
@@ -458,6 +496,13 @@
 			"ShaderMapHash": "DDC65DDD6894FC77822319DC11CAAC5BAD77B7D5",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B159B7E2CDE99B80E58C0380760CC83A1FF51AD7",
+			"Assets": [
+				"/Game/Blender/Wall_Outline",
+				"/Game/Blender/Wall_Outline1"
 			]
 		},
 		{
